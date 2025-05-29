@@ -91,3 +91,4 @@ C:\training\MvcMovie\obj\Debug\net9.0\refint\MvcMovie.dll
 C:\training\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\training\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\training\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+C:\training\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
